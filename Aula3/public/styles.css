@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: brown;
+    color: aliceblue;
+}
+
+.container{
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 80%;
+    text-align: center;
+}
+
+.container h1{
+    font-size: 48px;
+}
+
+.container #section-time{
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+.container #section-time span{
+    font-weight: bold;
+}
+
+#section-buttons{
+    margin-top: 1em;
+}

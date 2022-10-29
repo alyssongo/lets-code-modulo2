@@ -1,0 +1,20 @@
+{
+  "name": "aula-nodejs",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido no curso lets code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "start_app": "nodemon app.js",
+    "start_server_express": "nodemon server_express.js"
+  },
+  "author": "Lucas Costa",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
